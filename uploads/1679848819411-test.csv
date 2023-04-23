@@ -1,0 +1,500 @@
+S.no,Series_reference,Period,Data_value,Suppressed,STATUS,UNITS,Magnitude,Subject,Group,Series_title_1,Series_title_2,Series_title_3
+1,BDCQ.SEA1AA,2011.06,80078,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+2,BDCQ.SEA1AA,2011.09,78324,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+3,BDCQ.SEA1AA,2011.12,85850,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+4,BDCQ.SEA1AA,2012.03,90743,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+5,BDCQ.SEA1AA,2012.06,81780,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+6,BDCQ.SEA1AA,2012.09,79261,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+7,BDCQ.SEA1AA,2012.12,87793,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+8,BDCQ.SEA1AA,2013.03,91571,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+9,BDCQ.SEA1AA,2013.06,81687,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+10,BDCQ.SEA1AA,2013.09,81471,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+11,BDCQ.SEA1AA,2013.12,93950,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+12,BDCQ.SEA1AA,2014.03,97208,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+13,BDCQ.SEA1AA,2014.06,85879,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+14,BDCQ.SEA1AA,2014.09,84447,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+15,BDCQ.SEA1AA,2014.12,95075,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+16,BDCQ.SEA1AA,2015.03,98202,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+17,BDCQ.SEA1AA,2015.06,87987,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+18,BDCQ.SEA1AA,2015.09,84529,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+19,BDCQ.SEA1AA,2015.12,96848,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+20,BDCQ.SEA1AA,2016.03,99291,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+21,BDCQ.SEA1AA,2016.06,88716,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+22,BDCQ.SEA1AA,2016.09,85933,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+23,BDCQ.SEA1AA,2016.12,96540,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+24,BDCQ.SEA1AA,2017.03,98994,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+25,BDCQ.SEA1AA,2017.06,90510,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+26,BDCQ.SEA1AA,2017.09,87089,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+27,BDCQ.SEA1AA,2017.12,98933,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+28,BDCQ.SEA1AA,2018.03,101168,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+29,BDCQ.SEA1AA,2018.06,90766,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+30,BDCQ.SEA1AA,2018.09,86929,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+31,BDCQ.SEA1AA,2018.12,100290,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+32,BDCQ.SEA1AA,2019.03,102031,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+33,BDCQ.SEA1AA,2019.06,90836,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+34,BDCQ.SEA1AA,2019.09,88032,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+35,BDCQ.SEA1AA,2019.12,100531,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+36,BDCQ.SEA1AA,2020.03,100947,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+37,BDCQ.SEA1AA,2020.06,93239,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+38,BDCQ.SEA1AA,2020.09,93195,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+39,BDCQ.SEA1AA,2020.12,102683,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+40,BDCQ.SEA1AA,2021.03,101342,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+41,BDCQ.SEA1AA,2021.06,92962,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+42,BDCQ.SEA1AA,2021.09,91635,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+43,BDCQ.SEA1AA,2021.12,102423,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+44,BDCQ.SEA1AA,2022.03,100285,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+45,BDCQ.SEA1AA,2022.06,94075,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+46,BDCQ.SEA1AA,2022.09,90838,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Actual
+47,BDCQ.SEA1AS,2011.06,83971,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+48,BDCQ.SEA1AS,2011.09,84195,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+49,BDCQ.SEA1AS,2011.12,82509,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+50,BDCQ.SEA1AS,2012.03,84365,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+51,BDCQ.SEA1AS,2012.06,85735,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+52,BDCQ.SEA1AS,2012.09,85262,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+53,BDCQ.SEA1AS,2012.12,84318,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+54,BDCQ.SEA1AS,2013.03,85165,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+55,BDCQ.SEA1AS,2013.06,85602,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+56,BDCQ.SEA1AS,2013.09,87734,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+57,BDCQ.SEA1AS,2013.12,90124,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+58,BDCQ.SEA1AS,2014.03,90482,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+59,BDCQ.SEA1AS,2014.06,89904,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+60,BDCQ.SEA1AS,2014.09,91095,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+61,BDCQ.SEA1AS,2014.12,91047,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+62,BDCQ.SEA1AS,2015.03,91526,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+63,BDCQ.SEA1AS,2015.06,91997,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+64,BDCQ.SEA1AS,2015.09,91322,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+65,BDCQ.SEA1AS,2015.12,92595,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+66,BDCQ.SEA1AS,2016.03,92684,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+67,BDCQ.SEA1AS,2016.06,92635,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+68,BDCQ.SEA1AS,2016.09,92965,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+69,BDCQ.SEA1AS,2016.12,92116,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+70,BDCQ.SEA1AS,2017.03,92626,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+71,BDCQ.SEA1AS,2017.06,94391,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+72,BDCQ.SEA1AS,2017.09,94238,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+73,BDCQ.SEA1AS,2017.12,94209,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+74,BDCQ.SEA1AS,2018.03,94960,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+75,BDCQ.SEA1AS,2018.06,94581,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+76,BDCQ.SEA1AS,2018.09,93980,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+77,BDCQ.SEA1AS,2018.12,95271,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+78,BDCQ.SEA1AS,2019.03,96189,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+79,BDCQ.SEA1AS,2019.06,94580,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+80,BDCQ.SEA1AS,2019.09,94984,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+81,BDCQ.SEA1AS,2019.12,95288,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+82,BDCQ.SEA1AS,2020.03,95635,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+83,BDCQ.SEA1AS,2020.06,97002,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+84,BDCQ.SEA1AS,2020.09,100296,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+85,BDCQ.SEA1AS,2020.12,97156,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+86,BDCQ.SEA1AS,2021.03,96483,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+87,BDCQ.SEA1AS,2021.06,96590,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+88,BDCQ.SEA1AS,2021.09,98388,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+89,BDCQ.SEA1AS,2021.12,96818,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+90,BDCQ.SEA1AS,2022.03,95832,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+91,BDCQ.SEA1AS,2022.06,97642,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+92,BDCQ.SEA1AS,2022.09,97354,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Seasonally adjusted
+93,BDCQ.SEA1AT,2011.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+94,BDCQ.SEA1AT,2011.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+95,BDCQ.SEA1AT,2011.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+96,BDCQ.SEA1AT,2012.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+97,BDCQ.SEA1AT,2012.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+98,BDCQ.SEA1AT,2012.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+99,BDCQ.SEA1AT,2012.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+100,BDCQ.SEA1AT,2013.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+101,BDCQ.SEA1AT,2013.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+102,BDCQ.SEA1AT,2013.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+103,BDCQ.SEA1AT,2013.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+104,BDCQ.SEA1AT,2014.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+105,BDCQ.SEA1AT,2014.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+106,BDCQ.SEA1AT,2014.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+107,BDCQ.SEA1AT,2014.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+108,BDCQ.SEA1AT,2015.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+109,BDCQ.SEA1AT,2015.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+110,BDCQ.SEA1AT,2015.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+111,BDCQ.SEA1AT,2015.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+112,BDCQ.SEA1AT,2016.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+113,BDCQ.SEA1AT,2016.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+114,BDCQ.SEA1AT,2016.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+115,BDCQ.SEA1AT,2016.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+116,BDCQ.SEA1AT,2017.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+117,BDCQ.SEA1AT,2017.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+118,BDCQ.SEA1AT,2017.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+119,BDCQ.SEA1AT,2017.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+120,BDCQ.SEA1AT,2018.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+121,BDCQ.SEA1AT,2018.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+122,BDCQ.SEA1AT,2018.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+123,BDCQ.SEA1AT,2018.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+124,BDCQ.SEA1AT,2019.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+125,BDCQ.SEA1AT,2019.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+126,BDCQ.SEA1AT,2019.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+127,BDCQ.SEA1AT,2019.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+128,BDCQ.SEA1AT,2020.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+129,BDCQ.SEA1AT,2020.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+130,BDCQ.SEA1AT,2020.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+131,BDCQ.SEA1AT,2020.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+132,BDCQ.SEA1AT,2021.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+133,BDCQ.SEA1AT,2021.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+134,BDCQ.SEA1AT,2021.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+135,BDCQ.SEA1AT,2021.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+136,BDCQ.SEA1AT,2022.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+137,BDCQ.SEA1AT,2022.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+138,BDCQ.SEA1AT,2022.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Agriculture, Forestry and Fishing",Trend
+139,BDCQ.SEA1BA,2011.06,5234,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+140,BDCQ.SEA1BA,2011.09,5268,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+141,BDCQ.SEA1BA,2011.12,5499,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+142,BDCQ.SEA1BA,2012.03,5811,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+143,BDCQ.SEA1BA,2012.06,5847,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+144,BDCQ.SEA1BA,2012.09,5922,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+145,BDCQ.SEA1BA,2012.12,5722,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+146,BDCQ.SEA1BA,2013.03,5487,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+147,BDCQ.SEA1BA,2013.06,5506,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+148,BDCQ.SEA1BA,2013.09,5540,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+149,BDCQ.SEA1BA,2013.12,5492,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+150,BDCQ.SEA1BA,2014.03,6004,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+151,BDCQ.SEA1BA,2014.06,5886,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+152,BDCQ.SEA1BA,2014.09,5815,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+153,BDCQ.SEA1BA,2014.12,5592,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+154,BDCQ.SEA1BA,2015.03,5300,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+155,BDCQ.SEA1BA,2015.06,5422,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+156,BDCQ.SEA1BA,2015.09,5199,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+157,BDCQ.SEA1BA,2015.12,5060,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+158,BDCQ.SEA1BA,2016.03,5194,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+159,BDCQ.SEA1BA,2016.06,5080,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+160,BDCQ.SEA1BA,2016.09,5129,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+161,BDCQ.SEA1BA,2016.12,5157,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+162,BDCQ.SEA1BA,2017.03,5264,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+163,BDCQ.SEA1BA,2017.06,5164,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+164,BDCQ.SEA1BA,2017.09,5208,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+165,BDCQ.SEA1BA,2017.12,5381,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+166,BDCQ.SEA1BA,2018.03,5370,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+167,BDCQ.SEA1BA,2018.06,5385,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+168,BDCQ.SEA1BA,2018.09,5461,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+169,BDCQ.SEA1BA,2018.12,5434,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+170,BDCQ.SEA1BA,2019.03,5437,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+171,BDCQ.SEA1BA,2019.06,5068,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+172,BDCQ.SEA1BA,2019.09,5370,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+173,BDCQ.SEA1BA,2019.12,5165,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+174,BDCQ.SEA1BA,2020.03,5267,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+175,BDCQ.SEA1BA,2020.06,5245,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+176,BDCQ.SEA1BA,2020.09,5340,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+177,BDCQ.SEA1BA,2020.12,5271,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+178,BDCQ.SEA1BA,2021.03,5393,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+179,BDCQ.SEA1BA,2021.06,5351,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+180,BDCQ.SEA1BA,2021.09,5354,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+181,BDCQ.SEA1BA,2021.12,5407,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+182,BDCQ.SEA1BA,2022.03,5400,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+183,BDCQ.SEA1BA,2022.06,5553,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+184,BDCQ.SEA1BA,2022.09,5475,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Actual
+185,BDCQ.SEA1BS,2011.06,5234,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+186,BDCQ.SEA1BS,2011.09,5268,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+187,BDCQ.SEA1BS,2011.12,5499,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+188,BDCQ.SEA1BS,2012.03,5811,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+189,BDCQ.SEA1BS,2012.06,5847,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+190,BDCQ.SEA1BS,2012.09,5922,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+191,BDCQ.SEA1BS,2012.12,5722,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+192,BDCQ.SEA1BS,2013.03,5487,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+193,BDCQ.SEA1BS,2013.06,5506,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+194,BDCQ.SEA1BS,2013.09,5540,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+195,BDCQ.SEA1BS,2013.12,5492,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+196,BDCQ.SEA1BS,2014.03,6004,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+197,BDCQ.SEA1BS,2014.06,5886,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+198,BDCQ.SEA1BS,2014.09,5815,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+199,BDCQ.SEA1BS,2014.12,5592,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+200,BDCQ.SEA1BS,2015.03,5300,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+201,BDCQ.SEA1BS,2015.06,5422,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+202,BDCQ.SEA1BS,2015.09,5199,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+203,BDCQ.SEA1BS,2015.12,5060,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+204,BDCQ.SEA1BS,2016.03,5194,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+205,BDCQ.SEA1BS,2016.06,5080,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+206,BDCQ.SEA1BS,2016.09,5129,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+207,BDCQ.SEA1BS,2016.12,5157,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+208,BDCQ.SEA1BS,2017.03,5264,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+209,BDCQ.SEA1BS,2017.06,5164,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+210,BDCQ.SEA1BS,2017.09,5208,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+211,BDCQ.SEA1BS,2017.12,5381,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+212,BDCQ.SEA1BS,2018.03,5370,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+213,BDCQ.SEA1BS,2018.06,5385,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+214,BDCQ.SEA1BS,2018.09,5461,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+215,BDCQ.SEA1BS,2018.12,5434,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+216,BDCQ.SEA1BS,2019.03,5437,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+217,BDCQ.SEA1BS,2019.06,5068,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+218,BDCQ.SEA1BS,2019.09,5370,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+219,BDCQ.SEA1BS,2019.12,5165,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+220,BDCQ.SEA1BS,2020.03,5267,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+221,BDCQ.SEA1BS,2020.06,5245,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+222,BDCQ.SEA1BS,2020.09,5340,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+223,BDCQ.SEA1BS,2020.12,5271,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+224,BDCQ.SEA1BS,2021.03,5393,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+225,BDCQ.SEA1BS,2021.06,5351,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+226,BDCQ.SEA1BS,2021.09,5354,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+227,BDCQ.SEA1BS,2021.12,5407,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+228,BDCQ.SEA1BS,2022.03,5400,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+229,BDCQ.SEA1BS,2022.06,5553,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+230,BDCQ.SEA1BS,2022.09,5475,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Seasonally adjusted
+231,BDCQ.SEA1BT,2011.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+232,BDCQ.SEA1BT,2011.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+233,BDCQ.SEA1BT,2011.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+234,BDCQ.SEA1BT,2012.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+235,BDCQ.SEA1BT,2012.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+236,BDCQ.SEA1BT,2012.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+237,BDCQ.SEA1BT,2012.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+238,BDCQ.SEA1BT,2013.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+239,BDCQ.SEA1BT,2013.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+240,BDCQ.SEA1BT,2013.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+241,BDCQ.SEA1BT,2013.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+242,BDCQ.SEA1BT,2014.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+243,BDCQ.SEA1BT,2014.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+244,BDCQ.SEA1BT,2014.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+245,BDCQ.SEA1BT,2014.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+246,BDCQ.SEA1BT,2015.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+247,BDCQ.SEA1BT,2015.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+248,BDCQ.SEA1BT,2015.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+249,BDCQ.SEA1BT,2015.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+250,BDCQ.SEA1BT,2016.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+251,BDCQ.SEA1BT,2016.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+252,BDCQ.SEA1BT,2016.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+253,BDCQ.SEA1BT,2016.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+254,BDCQ.SEA1BT,2017.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+255,BDCQ.SEA1BT,2017.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+256,BDCQ.SEA1BT,2017.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+257,BDCQ.SEA1BT,2017.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+258,BDCQ.SEA1BT,2018.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+259,BDCQ.SEA1BT,2018.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+260,BDCQ.SEA1BT,2018.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+261,BDCQ.SEA1BT,2018.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+262,BDCQ.SEA1BT,2019.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+263,BDCQ.SEA1BT,2019.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+264,BDCQ.SEA1BT,2019.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+265,BDCQ.SEA1BT,2019.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+266,BDCQ.SEA1BT,2020.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+267,BDCQ.SEA1BT,2020.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+268,BDCQ.SEA1BT,2020.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+269,BDCQ.SEA1BT,2020.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+270,BDCQ.SEA1BT,2021.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+271,BDCQ.SEA1BT,2021.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+272,BDCQ.SEA1BT,2021.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+273,BDCQ.SEA1BT,2021.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+274,BDCQ.SEA1BT,2022.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+275,BDCQ.SEA1BT,2022.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+276,BDCQ.SEA1BT,2022.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Mining,Trend
+277,BDCQ.SEA1CA,2011.06,206633,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+278,BDCQ.SEA1CA,2011.09,200677,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+279,BDCQ.SEA1CA,2011.12,204217,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+280,BDCQ.SEA1CA,2012.03,208617,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+281,BDCQ.SEA1CA,2012.06,206645,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+282,BDCQ.SEA1CA,2012.09,199425,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+283,BDCQ.SEA1CA,2012.12,203691,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+284,BDCQ.SEA1CA,2013.03,208709,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+285,BDCQ.SEA1CA,2013.06,205207,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+286,BDCQ.SEA1CA,2013.09,201457,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+287,BDCQ.SEA1CA,2013.12,207492,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+288,BDCQ.SEA1CA,2014.03,211991,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+289,BDCQ.SEA1CA,2014.06,210124,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+290,BDCQ.SEA1CA,2014.09,205440,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+291,BDCQ.SEA1CA,2014.12,207594,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+292,BDCQ.SEA1CA,2015.03,214158,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+293,BDCQ.SEA1CA,2015.06,212246,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+294,BDCQ.SEA1CA,2015.09,207462,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+295,BDCQ.SEA1CA,2015.12,211402,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+296,BDCQ.SEA1CA,2016.03,216597,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+297,BDCQ.SEA1CA,2016.06,214710,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+298,BDCQ.SEA1CA,2016.09,209854,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+299,BDCQ.SEA1CA,2016.12,215317,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+300,BDCQ.SEA1CA,2017.03,219090,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+301,BDCQ.SEA1CA,2017.06,219130,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+302,BDCQ.SEA1CA,2017.09,213648,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+303,BDCQ.SEA1CA,2017.12,220066,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+304,BDCQ.SEA1CA,2018.03,225445,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+305,BDCQ.SEA1CA,2018.06,224308,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+306,BDCQ.SEA1CA,2018.09,218059,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+307,BDCQ.SEA1CA,2018.12,223667,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+308,BDCQ.SEA1CA,2019.03,227931,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+309,BDCQ.SEA1CA,2019.06,225492,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+310,BDCQ.SEA1CA,2019.09,219991,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+311,BDCQ.SEA1CA,2019.12,227095,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+312,BDCQ.SEA1CA,2020.03,228672,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+313,BDCQ.SEA1CA,2020.06,224825,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+314,BDCQ.SEA1CA,2020.09,217139,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+315,BDCQ.SEA1CA,2020.12,220395,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+316,BDCQ.SEA1CA,2021.03,221520,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+317,BDCQ.SEA1CA,2021.06,221060,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+318,BDCQ.SEA1CA,2021.09,218962,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+319,BDCQ.SEA1CA,2021.12,223229,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+320,BDCQ.SEA1CA,2022.03,226092,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+321,BDCQ.SEA1CA,2022.06,224408,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+322,BDCQ.SEA1CA,2022.09,223123,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Actual
+323,BDCQ.SEA1CS,2011.06,205550,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+324,BDCQ.SEA1CS,2011.09,205223,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+325,BDCQ.SEA1CS,2011.12,204626,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+326,BDCQ.SEA1CS,2012.03,204756,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+327,BDCQ.SEA1CS,2012.06,205578,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+328,BDCQ.SEA1CS,2012.09,203882,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+329,BDCQ.SEA1CS,2012.12,204139,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+330,BDCQ.SEA1CS,2013.03,204865,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+331,BDCQ.SEA1CS,2013.06,204154,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+332,BDCQ.SEA1CS,2013.09,205895,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+333,BDCQ.SEA1CS,2013.12,207951,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+334,BDCQ.SEA1CS,2014.03,208159,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+335,BDCQ.SEA1CS,2014.06,209036,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+336,BDCQ.SEA1CS,2014.09,209914,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+337,BDCQ.SEA1CS,2014.12,208003,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+338,BDCQ.SEA1CS,2015.03,210424,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+339,BDCQ.SEA1CS,2015.06,211086,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+340,BDCQ.SEA1CS,2015.09,211974,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+341,BDCQ.SEA1CS,2015.12,211735,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+342,BDCQ.SEA1CS,2016.03,212952,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+343,BDCQ.SEA1CS,2016.06,213494,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+344,BDCQ.SEA1CS,2016.09,214470,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+345,BDCQ.SEA1CS,2016.12,215460,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+346,BDCQ.SEA1CS,2017.03,215574,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+347,BDCQ.SEA1CS,2017.06,217898,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+348,BDCQ.SEA1CS,2017.09,218385,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+349,BDCQ.SEA1CS,2017.12,219915,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+350,BDCQ.SEA1CS,2018.03,222065,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+351,BDCQ.SEA1CS,2018.06,223167,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+352,BDCQ.SEA1CS,2018.09,222794,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+353,BDCQ.SEA1CS,2018.12,223200,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+354,BDCQ.SEA1CS,2019.03,224788,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+355,BDCQ.SEA1CS,2019.06,224599,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+356,BDCQ.SEA1CS,2019.09,224441,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+357,BDCQ.SEA1CS,2019.12,226414,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+358,BDCQ.SEA1CS,2020.03,225796,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+359,BDCQ.SEA1CS,2020.06,224231,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+360,BDCQ.SEA1CS,2020.09,221099,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+361,BDCQ.SEA1CS,2020.12,219623,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+362,BDCQ.SEA1CS,2021.03,218967,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+363,BDCQ.SEA1CS,2021.06,220757,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+364,BDCQ.SEA1CS,2021.09,222510,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+365,BDCQ.SEA1CS,2021.12,222404,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+366,BDCQ.SEA1CS,2022.03,223712,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+367,BDCQ.SEA1CS,2022.06,224260,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+368,BDCQ.SEA1CS,2022.09,226410,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Seasonally adjusted
+369,BDCQ.SEA1CT,2011.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+370,BDCQ.SEA1CT,2011.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+371,BDCQ.SEA1CT,2011.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+372,BDCQ.SEA1CT,2012.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+373,BDCQ.SEA1CT,2012.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+374,BDCQ.SEA1CT,2012.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+375,BDCQ.SEA1CT,2012.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+376,BDCQ.SEA1CT,2013.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+377,BDCQ.SEA1CT,2013.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+378,BDCQ.SEA1CT,2013.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+379,BDCQ.SEA1CT,2013.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+380,BDCQ.SEA1CT,2014.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+381,BDCQ.SEA1CT,2014.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+382,BDCQ.SEA1CT,2014.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+383,BDCQ.SEA1CT,2014.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+384,BDCQ.SEA1CT,2015.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+385,BDCQ.SEA1CT,2015.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+386,BDCQ.SEA1CT,2015.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+387,BDCQ.SEA1CT,2015.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+388,BDCQ.SEA1CT,2016.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+389,BDCQ.SEA1CT,2016.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+390,BDCQ.SEA1CT,2016.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+391,BDCQ.SEA1CT,2016.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+392,BDCQ.SEA1CT,2017.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+393,BDCQ.SEA1CT,2017.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+394,BDCQ.SEA1CT,2017.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+395,BDCQ.SEA1CT,2017.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+396,BDCQ.SEA1CT,2018.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+397,BDCQ.SEA1CT,2018.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+398,BDCQ.SEA1CT,2018.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+399,BDCQ.SEA1CT,2018.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+400,BDCQ.SEA1CT,2019.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+401,BDCQ.SEA1CT,2019.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+402,BDCQ.SEA1CT,2019.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+403,BDCQ.SEA1CT,2019.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+404,BDCQ.SEA1CT,2020.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+405,BDCQ.SEA1CT,2020.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+406,BDCQ.SEA1CT,2020.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+407,BDCQ.SEA1CT,2020.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+408,BDCQ.SEA1CT,2021.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+409,BDCQ.SEA1CT,2021.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+410,BDCQ.SEA1CT,2021.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+411,BDCQ.SEA1CT,2021.12,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+412,BDCQ.SEA1CT,2022.03,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+413,BDCQ.SEA1CT,2022.06,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+414,BDCQ.SEA1CT,2022.09,,,C,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,Manufacturing,Trend
+415,BDCQ.SEA1DA,2011.06,14486,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+416,BDCQ.SEA1DA,2011.09,14796,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+417,BDCQ.SEA1DA,2011.12,15026,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+418,BDCQ.SEA1DA,2012.03,15065,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+419,BDCQ.SEA1DA,2012.06,15046,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+420,BDCQ.SEA1DA,2012.09,15188,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+421,BDCQ.SEA1DA,2012.12,15269,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+422,BDCQ.SEA1DA,2013.03,15844,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+423,BDCQ.SEA1DA,2013.06,15895,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+424,BDCQ.SEA1DA,2013.09,15773,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+425,BDCQ.SEA1DA,2013.12,16010,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+426,BDCQ.SEA1DA,2014.03,15570,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+427,BDCQ.SEA1DA,2014.06,15347,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+428,BDCQ.SEA1DA,2014.09,15515,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+429,BDCQ.SEA1DA,2014.12,15830,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+430,BDCQ.SEA1DA,2015.03,16017,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+431,BDCQ.SEA1DA,2015.06,15972,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+432,BDCQ.SEA1DA,2015.09,15962,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+433,BDCQ.SEA1DA,2015.12,16143,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+434,BDCQ.SEA1DA,2016.03,16372,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+435,BDCQ.SEA1DA,2016.06,16416,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+436,BDCQ.SEA1DA,2016.09,16533,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+437,BDCQ.SEA1DA,2016.12,16245,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+438,BDCQ.SEA1DA,2017.03,17207,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+439,BDCQ.SEA1DA,2017.06,17243,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+440,BDCQ.SEA1DA,2017.09,17678,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+441,BDCQ.SEA1DA,2017.12,18145,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+442,BDCQ.SEA1DA,2018.03,18505,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+443,BDCQ.SEA1DA,2018.06,18511,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+444,BDCQ.SEA1DA,2018.09,18512,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+445,BDCQ.SEA1DA,2018.12,18812,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+446,BDCQ.SEA1DA,2019.03,18937,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+447,BDCQ.SEA1DA,2019.06,19046,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+448,BDCQ.SEA1DA,2019.09,19316,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+449,BDCQ.SEA1DA,2019.12,19634,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+450,BDCQ.SEA1DA,2020.03,19770,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+451,BDCQ.SEA1DA,2020.06,19791,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+452,BDCQ.SEA1DA,2020.09,19886,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+453,BDCQ.SEA1DA,2020.12,20213,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+454,BDCQ.SEA1DA,2021.03,20273,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+455,BDCQ.SEA1DA,2021.06,20095,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+456,BDCQ.SEA1DA,2021.09,20415,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+457,BDCQ.SEA1DA,2021.12,20894,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+458,BDCQ.SEA1DA,2022.03,21133,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+459,BDCQ.SEA1DA,2022.06,21131,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+460,BDCQ.SEA1DA,2022.09,21652,,F,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Actual
+461,BDCQ.SEA1DS,2011.06,14486,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+462,BDCQ.SEA1DS,2011.09,14796,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+463,BDCQ.SEA1DS,2011.12,15026,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+464,BDCQ.SEA1DS,2012.03,15065,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+465,BDCQ.SEA1DS,2012.06,15046,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+466,BDCQ.SEA1DS,2012.09,15188,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+467,BDCQ.SEA1DS,2012.12,15269,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+468,BDCQ.SEA1DS,2013.03,15844,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+469,BDCQ.SEA1DS,2013.06,15895,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+470,BDCQ.SEA1DS,2013.09,15773,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+471,BDCQ.SEA1DS,2013.12,16010,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+472,BDCQ.SEA1DS,2014.03,15570,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+473,BDCQ.SEA1DS,2014.06,15347,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+474,BDCQ.SEA1DS,2014.09,15515,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+475,BDCQ.SEA1DS,2014.12,15830,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+476,BDCQ.SEA1DS,2015.03,16017,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+477,BDCQ.SEA1DS,2015.06,15972,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+478,BDCQ.SEA1DS,2015.09,15962,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+479,BDCQ.SEA1DS,2015.12,16143,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+480,BDCQ.SEA1DS,2016.03,16372,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+481,BDCQ.SEA1DS,2016.06,16416,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+482,BDCQ.SEA1DS,2016.09,16533,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+483,BDCQ.SEA1DS,2016.12,16245,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+484,BDCQ.SEA1DS,2017.03,17207,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+485,BDCQ.SEA1DS,2017.06,17243,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+486,BDCQ.SEA1DS,2017.09,17678,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+487,BDCQ.SEA1DS,2017.12,18145,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+488,BDCQ.SEA1DS,2018.03,18505,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+489,BDCQ.SEA1DS,2018.06,18511,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+490,BDCQ.SEA1DS,2018.09,18512,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+491,BDCQ.SEA1DS,2018.12,18812,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+492,BDCQ.SEA1DS,2019.03,18937,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+493,BDCQ.SEA1DS,2019.06,19046,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+494,BDCQ.SEA1DS,2019.09,19316,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+495,BDCQ.SEA1DS,2019.12,19634,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+496,BDCQ.SEA1DS,2020.03,19770,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+497,BDCQ.SEA1DS,2020.06,19791,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+498,BDCQ.SEA1DS,2020.09,19886,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted
+499,BDCQ.SEA1DS,2020.12,20213,,R,Number,0,Business Data Collection - BDC,Industry by employment variable,Filled jobs,"Electricity, Gas, Water and Waste Services",Seasonally adjusted

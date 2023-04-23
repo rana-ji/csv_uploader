@@ -1,0 +1,135 @@
+/* creating the custom css */
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #000;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+  height: 90vh;
+  display: block;
+}
+
+body h1 {
+  color: #fff;
+  text-align: center;
+}
+
+.container form {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.container ul {
+  list-style-position: inside;
+}
+
+.container ul li {
+  background: #fff;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.container ul li a {
+  text-decoration: none;
+}
+
+input[type="file"] {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  background: #fff;
+  width: 40%;
+  height: 2rem;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+
+input[type="file"]::file-selector-button {
+  height: 2rem;
+  border: none;
+  border-right: 1px solid #000;
+}
+
+form > button {
+  height: 2rem;
+  width: 10%;
+  border: 2px solid #fff;
+  background-color: #000;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+form > button:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #000;
+  font-weight: 700;
+}
+
+.table-container {
+  overflow-x: auto;
+  height: 88%;
+  overflow-y: scroll;
+  border: 5px dashed #eee;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table thead {
+  position: sticky;
+  top: 0;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #4caf50;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+  background-color: #ccc;
+}
+
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-wrapper div{
+  flex: 1;
+}
+.search-form{
+  justify-content: space-between!important;
+}
+.search-form input{
+  width: 70%;
+  height: 30px;
+  padding-left: 15px;
+  border-radius: 50px;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+.search-form button{
+  width:fit-content!important;
+}
